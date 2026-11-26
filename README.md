@@ -4,6 +4,8 @@ A minimalist, modern Android application designed for real-time workout logging 
 
 > A [Grafizum](https://github.com/grafizum) studio product.
 
+[![Google Play](https://img.shields.io/badge/Google%20Play-RepIo-3ddc84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.grafizum.repio)
+
 ---
 
 ## 🌟 Key Features
@@ -15,9 +17,9 @@ A minimalist, modern Android application designed for real-time workout logging 
 
 ---
 
-## 📲 Coming to Google Play
+## 📲 Get RepIo on Google Play
 
-RepIo is being tested now and is heading to Google Play next — the store listing is in preparation, and the app is going through closed testing before it opens to everyone. Until it is live there, the app is built from source; see **Getting Started** below.
+RepIo is live on Google Play: **[RepIo — Workout Tracker](https://play.google.com/store/apps/details?id=com.grafizum.repio)**. Install it from the store, or keep using the pre-release APKs on the [releases page](https://github.com/MatrixZockt/RepIo-WorkoutTracker/releases) — and you can always build it yourself; see **Getting Started** below.
 
 ---
 
