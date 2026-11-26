@@ -1,0 +1,7 @@
+# Author aliases, so one person does not appear twice.
+#
+# The owner's second account, grafizum-archive, authored part of this history as
+# "Grafizum <github@grafizum.com>". Those commits stay as they were written; this
+# file only tells git — and any tool that reads .mailmap — to show them under the
+# owner's working identity instead.
+Matrix <55624562+MatrixZockt@users.noreply.github.com> Grafizum <github@grafizum.com>
