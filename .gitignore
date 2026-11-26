@@ -35,3 +35,9 @@ tools/exercise-i18n/out/
 
 # Written by tools/exercise-i18n/extract.py on every run.
 tools/exercise-i18n/extract.tsv
+
+# Firebase client config: project ids and an API key. The app no longer uses
+# Firebase, so a regenerated copy has no reason to reach git. Matches at any
+# depth, which covers the old app/google-services.json and
+# composeApp/google-services.json locations.
+google-services.json
