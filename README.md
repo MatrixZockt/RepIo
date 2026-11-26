@@ -37,3 +37,16 @@ RepIo is being tested now and is heading to Google Play next — the store listi
 - Android Studio (Ladybug / Jellyfish or newer recommended)
 - JDK 17 or higher
 - Android SDK 36+ (compileSdk / targetSdk)
+
+---
+
+## License
+
+RepIo is licensed under the [GNU General Public License v3.0](LICENSE) (GPLv3).
+You are free to run, study, share and modify it. If you distribute a modified
+version, it must carry the same licence and its source code, so nobody can take
+it and make it closed.
+
+## Acknowledgments
+
+Thanks to [Grafizum](https://github.com/grafizum) for helping me manage this project and stay organized while building it.
